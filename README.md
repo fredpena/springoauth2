@@ -1,8 +1,6 @@
 # Integration of OAuth2 and Spring Boot with Vaadin Flow
 
-This project is a demo intended to test the integration concept of `OAuth2`, `Spring Boot`, and `Vaadin Flow`. It
-focuses on implementing an OAuth2 flow, along with the Spring Boot framework for server logic and Vaadin Flow for the
-visual part of the application.
+This project is a demo intended to test the integration concept of `OAuth2`, `Spring Boot`, and `Vaadin Flow` with the `Google Calendar API`
 
 ## Prerequisites
 
